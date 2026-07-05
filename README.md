@@ -8,7 +8,7 @@ Users can enter their name and receive a personalized greeting based on the curr
 
 ## 🚀 Live Demo
 
-🔗 https://your-live-demo-link.netlify.app/
+🔗 https://negarlmd.github.io/Getting-App/
 
 > Replace the link above with your GitHub Pages, Netlify, or Vercel URL.
 
